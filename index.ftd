@@ -21,7 +21,7 @@ name: default-colors
 -- cd.package: THEME
 name: `forest-cs`
 logo: $assets.files.static.fastn-logo.svg
-subtitle: Adding warmth and energy to your designs with the `forest-cs` Color Scheme
+subtitle: forest-cs: color scheme
 colors: $colors-data
 types: $typo.types
 
