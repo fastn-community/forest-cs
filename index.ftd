@@ -24,8 +24,8 @@ logo: $assets.files.static.fastn-logo.svg
 subtitle: forest-cs: color scheme
 colors: $colors-data
 types: $typo.types
-document-title: Forest CS: fastn color scheme package
-document-description: Forest CS: fastn color scheme package
+document-title: Green-themed Colour Scheme for Web Design | fastn Forest CS
+document-description: Discover the Forest Colour Scheme by fastn, featuring beautiful shades of green for both dark and light modes.
 document-image: https://fastn.com/-/fastn.com/images/featured/cs/forest-cs-dark.png
 
 -- cp.components-pallete:
